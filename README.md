@@ -1,2 +1,2 @@
-# Emojication
+# Emotication
  
